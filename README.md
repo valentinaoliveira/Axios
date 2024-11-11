@@ -1,5 +1,9 @@
 
 # Conectando Front-End com Back-End
+Este projeto demonstra como conectar um front-end em React com um back-end usando Express e Axios para realizar requisições HTTP.
+
+## Importância da Conexão entre Front-End e Back-End
+Conectar o front-end ao back-end é essencial para a criação de aplicações dinâmicas, pois permite que o front-end se comunique com o servidor para buscar ou enviar dados, como informações de usuários, produtos ou interações. Essa comunicação em tempo real melhora a experiência do usuário e torna a aplicação mais interativa, escalável e funcional.
 
 ### Estrutura de Diretórios
 Coloque os arquivos de front-end e back-end em uma pasta organizada para facilitar a conexão entre as partes.
